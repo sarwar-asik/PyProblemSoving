@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62882df-8aea-4b63-be62-38ef0c62e4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/isMuliplle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/findAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/findAverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Uv1wFDG4HvfPD4rraeKZhjYcF4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
