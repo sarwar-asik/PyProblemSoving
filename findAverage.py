@@ -1,10 +1,11 @@
-# 7. Python program to check whether the given integer is a multiple of 5
+# 9. Python program to find the average of 10 numbers using while loop
 
-number = int(input("Enter an Integer ::  "))
-multipleNumber = int(input("Which number multiple by :: "))
-if number % multipleNumber == 0:
-    print(number, "is a multiple by", multipleNumber)
-else:
-    print(number, "is not a multiple by", multipleNumber)
+count = 0
+sum = 0.0
 
-print("---done---")
+while count < 5:
+    number = float(input("Enter a real number ::  "))
+    count = count+1
+    sum = sum + number
+    avg = sum/5
+    print("Average is ::: ", avg)

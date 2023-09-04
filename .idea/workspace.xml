@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62882df-8aea-4b63-be62-38ef0c62e4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/findAverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isMuliplle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/findAverage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
